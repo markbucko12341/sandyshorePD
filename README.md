@@ -10,5 +10,5 @@ this allows you to use sandy shore pd to it fullest  adding cloakroom, armory, c
 
 
 ***SETTING PLAYERS***
-`/setjob [id] BSCO 0-3`
+`/setjob [id] BSCO 0-3`   yes i know BSCO is wrong but who cares when the job is set is name the `BCPD` Bliane County Police Deparment 
              ***DONE***
