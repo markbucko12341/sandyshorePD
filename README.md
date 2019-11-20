@@ -8,4 +8,7 @@ this allows you to use sandy shore pd to it fullest  adding cloakroom, armory, c
 2. install sql into your database
 3. add `start esx_policejob2` into your server.cfg 
 
+
+***SETTING PLAYERS***
+`/setjob [id] BSCO 0-3`
              ***DONE***
